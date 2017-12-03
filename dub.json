@@ -1,0 +1,9 @@
+{
+	"name": "crypto-pool-tests",
+	"authors": [
+		"Vladyslav Brovko"
+	],
+	"description": "Crypto pool test.",
+	"copyright": "Copyright © 2017, Vladyslav Brovko",
+	"license": "Public Domain"
+}
